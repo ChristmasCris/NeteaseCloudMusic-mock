@@ -1,0 +1,8 @@
+{
+  "navigationBarTitleText": "",
+  "enablePullDownRefresh": false,
+  "usingComponents": {
+    "my-banner": "/components/my-banner/my-banner",
+    "my-search": "/components/my-search/my-search"
+  }
+}

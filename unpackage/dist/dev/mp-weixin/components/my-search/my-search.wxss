@@ -1,0 +1,25 @@
+@charset "UTF-8";
+/* 水平间距 */
+/* 水平间距 */
+.search.data-v-8ad86a50 {
+  padding: 20rpx 30rpx;
+}
+.search-container.data-v-8ad86a50 {
+  height: 36px;
+  padding: 0 10px;
+  display: flex;
+  align-items: center;
+  border: 1px solid #808080;
+  background-color: #FFFFFF;
+  border-radius: 15px;
+}
+.search-image.data-v-8ad86a50 {
+  width: 20px;
+  height: 20px;
+}
+.search-placeholder.data-v-8ad86a50 {
+  padding-left: 8px;
+  font-size: 15px;
+  color: #999999;
+}
+

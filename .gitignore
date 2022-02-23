@@ -1,0 +1,18 @@
+### Vue template
+# gitignore template for Vue.js projects
+#
+# Recommended template: Node.gitignore
+
+# TODO: where does this rule come from?
+docs/_book
+
+# TODO: where does this rule come from?
+test/
+
+.hbuliderx
+.idea
+.uni_modules
+.node_modules
+
+# 项目排除路径
+/node_modules/
